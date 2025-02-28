@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Users/user/Desktop/playbooks"
+		},
+		{
+			"path": "../../Users/user/Downloads/Jenkins-Zero-To-Hero-main"
+		},
+		{
+			"path": "../../Users/user/Downloads/Docker-Zero-to-Hero-main"
+		}
+	],
+	"settings": {
+		"ansible.python.interpreterPath": "c:\\Python3\\python.exe"
+	}
+}
